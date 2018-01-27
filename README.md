@@ -1,4 +1,6 @@
 # Contas em Dia
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjoaosantana%2FContasEmDia.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjoaosantana%2FContasEmDia?ref=badge_shield)
+
 
 *Anote suas contas e não se esqueça de pagá-las!*
 
@@ -35,3 +37,5 @@ Caso você tenha experiência com Assets para a Windows Store, sua ajuda também
 ## Licenciamento
 
 **Contas em Dia** é desenvolvido sob a [MIT License](https://github.com/joaosantana/ContasEmDia/blob/master/LICENSE.md).
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjoaosantana%2FContasEmDia.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjoaosantana%2FContasEmDia?ref=badge_large)
